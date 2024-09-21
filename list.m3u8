@@ -1,35 +1,6 @@
 #EXTM3U
-#EXTINF:-1, CANAL 2
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
-#EXTINF:-1, CANAL 4
-https://telecorporacion.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/.m3u8
-#EXTINF:-1, TIGO SPORT 
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index_4.m3u8?t=d7a3427ef6d1653ac08cb239f2b94fc802a0f1cf2833474541ba8d2cf344e487&s=2b06876735e1467cb1c7d0fc6af4e9a617261867447822c6b5906d23d11e784ca1287e169ddaf6XfKSkNatGLLIkhhlCIhO2&c=179.60.173.92&e=2024-09-13T00%3A19%3A19Z&v=4&u=2c6b5906-d23d-11e7-84ca-1287e169ddaf&em=ronaldnehe%40gmail.com&di=6ff92bcf41b4c16792b5a87aa79ceb12&cfi=6XfKSkNatGLLIkhhlCIhO2&q=em,di,cfi
-#EXTINF:-1, CANAL 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
-#EXTINF:-1, CANAL 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1706985991_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDQ6MTU6NTcgUE0maGFzaF92YWx1ZT01dzc2VWhlb21UOG9zMGxjYmV2Z1BBPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
-#EXTINF:-1, CANAL 11
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
-#EXTINF:-1, CANAL 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1, CANAL 17
-https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/chunklist_w994850518_DVR.m3u8
-#EXTINF:-1, CANAL 19
-https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1, CANAL 21
-https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
-#EXTINF:-1, FOX SPORTS
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:-1, SKY
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1, SKY SPORTS
-http://181.78.109.49:8000/play/a06r/index.m3u8
-#EXTINF:-1, SKY SPORT
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-#EXTINF:-1, SKY LALIGA
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1, ESPN
+#EXTINF:-1,ESPN HD-IK1622-OK
 http://191.52.214.5:8000/play/a02s/index.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-2,ESPN 2 HD-IK1623-OK
 http://191.52.214.5:8000/play/a027/index.m3u8
+
