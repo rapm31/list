@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, EVENTOS
-https://off6.hamaradilhai.com:999/hls/directvlivehd.m3u8?md5=qf2zVt_taBO74z2NESxCmA&expires=1727559602
-#EXTINF:0, SKY
+#EXTINF:-1, SKY
 http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:-1, DS
+https://oopeechae9rah3.hopehouse.mov/hls/8e834551126db44e-43a3266c10b0fb789031f19f2157f1d12402590b3869e34d09b7d1c31a8378f9/live.m3u8
